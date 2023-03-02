@@ -14,4 +14,4 @@
 
 * you need [python](https://www.python.org/downloads/)
 * you need [cromedriver](https://chromedriver.chromium.org/downloads). **Note: you need to download the same crome version**
-* after you download them just download the script and run it
+* last step is to run the script
