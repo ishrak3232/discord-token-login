@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> login with a token using this sript <img src="https://cdn.discordapp.com/emojis/776478630393806888.png" width="30px"></h2>
+<h2> login a token ! now with proxy support! <img src="https://cdn.discordapp.com/emojis/776478630393806888.png" width="30px"></h2>
 </div>
 
 <div align="center">
